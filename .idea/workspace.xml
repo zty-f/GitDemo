@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b82f33e-9937-49f3-ba22-777c41442526" name="Changes" comment="a-2-commit" />
+    <list default="true" id="8b82f33e-9937-49f3-ba22-777c41442526" name="Changes" comment="test1-4">
+      <change afterPath="$PROJECT_DIR$/B/1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A/4" beforeDir="false" afterPath="$PROJECT_DIR$/A/4" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,10 +24,11 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="dev-b" />
+        <entry key="$PROJECT_DIR$" value="develop" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="5" />
@@ -36,20 +40,16 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
-                    <option name="branchName" value="develop" />
-                    <option name="lastUsedInstant" value="1712137285" />
-                  </RecentBranch>
-                  <RecentBranch>
-                    <option name="branchName" value="dev-b" />
-                    <option name="lastUsedInstant" value="1712137274" />
-                  </RecentBranch>
-                  <RecentBranch>
-                    <option name="branchName" value="dev-a" />
-                    <option name="lastUsedInstant" value="1712137262" />
+                    <option name="branchName" value="test1" />
+                    <option name="lastUsedInstant" value="1737104782" />
                   </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="master" />
-                    <option name="lastUsedInstant" value="1712137230" />
+                    <option name="lastUsedInstant" value="1737104769" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="develop" />
+                    <option name="lastUsedInstant" value="1712137285" />
                   </RecentBranch>
                 </list>
               </option>
@@ -113,7 +113,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin/master" />
+                        <option value="test1" />
                       </list>
                     </value>
                   </entry>
@@ -132,7 +132,10 @@
     <MESSAGE value="b-3-commit" />
     <MESSAGE value="a-1-commit" />
     <MESSAGE value="a-2-commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="a-2-commit" />
+    <MESSAGE value="0117-1" />
+    <MESSAGE value="0117-2" />
+    <MESSAGE value="test1-4" />
+    <option name="LAST_COMMIT_MESSAGE" value="test1-4" />
   </component>
   <component name="VgoProject">
     <environment>
