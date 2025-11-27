@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b82f33e-9937-49f3-ba22-777c41442526" name="Changes" comment="test reset2">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8b82f33e-9937-49f3-ba22-777c41442526" name="Changes" comment="feat-end" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,7 +17,7 @@
       </list>
     </option>
   </component>
-  <component name="GOROOT" url="file://$USER_HOME$/go-1.20/go1.20" />
+  <component name="GOROOT" url="file://$PROJECT_DIR$/../../pkg/mod/golang.org/toolchain@v0.0.1-go1.24.7.darwin-arm64" />
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
@@ -39,8 +37,8 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
-                    <option name="branchName" value="test1" />
-                    <option name="lastUsedInstant" value="1737104782" />
+                    <option name="branchName" value="feat1" />
+                    <option name="lastUsedInstant" value="1764210526" />
                   </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="master" />
@@ -70,30 +68,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultGoTemplateProperty&quot;: &quot;Go File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.modules.automatic.dependencies.download&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.modules.go.list.on.any.changes.was.set&quot;: &quot;true&quot;,
-    &quot;com.codeium.enabled&quot;: &quot;true&quot;,
-    &quot;configurable.GoLibrariesConfigurable.is.expanded&quot;: &quot;true&quot;,
-    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/xwx/go/src/GitDemo&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;go.vgo&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultGoTemplateProperty": "Go File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "RunOnceActivity.go.modules.automatic.dependencies.download": "true",
+    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
+    "com.codeium.enabled": "true",
+    "configurable.GoLibrariesConfigurable.is.expanded": "true",
+    "git-widget-placeholder": "feat1",
+    "go.import.settings.migrated": "true",
+    "go.sdk.automatically.set": "true",
+    "last_opened_file_path": "/Users/zty/go/src/GitDemo",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "go.vgo",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-gosdk-33c477a475b1-b97fc8a1e17c-org.jetbrains.plugins.go.sharedIndexes.bundled-GO-241.14494.238" />
-        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-GO-241.14494.238" />
+        <option value="bundled-gosdk-d297c17c1fbd-85c80fddc9a6-org.jetbrains.plugins.go.sharedIndexes.bundled-GO-243.23654.166" />
+        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-GO-243.23654.166" />
       </set>
     </attachedChunks>
   </component>
@@ -112,7 +114,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="test1" />
+                        <option value="feat1" />
                       </list>
                     </value>
                   </entry>
@@ -137,7 +139,10 @@
     <MESSAGE value="test reset" />
     <MESSAGE value="test reset1" />
     <MESSAGE value="test reset2" />
-    <option name="LAST_COMMIT_MESSAGE" value="test reset2" />
+    <MESSAGE value="feat" />
+    <MESSAGE value="feat1" />
+    <MESSAGE value="feat-end" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat-end" />
   </component>
   <component name="VgoProject">
     <environment>
